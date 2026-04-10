@@ -29,4 +29,7 @@ Intentional RF interference is illegal in many jurisdictions and can disrupt cri
 
 ## Disclaimer
 This repository is provided for educational purposes only. No liability is accepted for misuse.
+
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
 VILAS B S
